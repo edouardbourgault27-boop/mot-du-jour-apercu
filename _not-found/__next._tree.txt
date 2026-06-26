@@ -1,2 +1,2 @@
-:HL["/mot-du-jour-apercu/_next/static/chunks/04.-fq_r4bu9x.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"f7GNogLkYhrTZ7xdMbjCK"}
+:HL["/mot-du-jour-apercu/_next/static/chunks/0c.h65ep-gr06.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"FbXVAZJ5Enxu-VkHFL9QF"}
