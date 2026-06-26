@@ -1,5 +1,5 @@
-:HL["/mot-du-jour-apercu/_next/static/chunks/0x.kz-pjx1n8p.css","style"]
+:HL["/mot-du-jour-apercu/_next/static/chunks/02acdgumz69pr.css","style"]
 :HL["/mot-du-jour-apercu/_next/static/media/4ee71d90e0f663bd-s.p.02x5gcj01ji7l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mot-du-jour-apercu/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mot-du-jour-apercu/_next/static/media/e4505858a30c79c2-s.p.14m88r~v.m-cq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"mot","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"saudade","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Si39q0b3-Te3VMQCERcIw"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"mot","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"saudade","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"GgGh2l9E4Zg4Kknqa6x02"}
