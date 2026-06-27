@@ -2,4 +2,4 @@
 2:I[60512,["/mot-du-jour-apercu/_next/static/chunks/0ynd-c2v3lbbr.js","/mot-du-jour-apercu/_next/static/chunks/15lxnqh47k9_-.js","/mot-du-jour-apercu/_next/static/chunks/06~6z~aic058s.js","/mot-du-jour-apercu/_next/static/chunks/05-._pjh55-fn.js"],"default"]
 3:I[94050,["/mot-du-jour-apercu/_next/static/chunks/0ynd-c2v3lbbr.js","/mot-du-jour-apercu/_next/static/chunks/15lxnqh47k9_-.js","/mot-du-jour-apercu/_next/static/chunks/06~6z~aic058s.js","/mot-du-jour-apercu/_next/static/chunks/05-._pjh55-fn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"MJv9gHLoE7rKKQ9FoCa5I"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"dJOI_pDq_HrH5JquWOY3Z"}
