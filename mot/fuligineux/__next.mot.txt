@@ -2,4 +2,4 @@
 2:I[60512,["/mot-du-jour-apercu/_next/static/chunks/10q5uti3s3cam.js","/mot-du-jour-apercu/_next/static/chunks/05-._pjh55-fn.js"],"default"]
 3:I[94050,["/mot-du-jour-apercu/_next/static/chunks/10q5uti3s3cam.js","/mot-du-jour-apercu/_next/static/chunks/05-._pjh55-fn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Sjt4sU6vaJyansLtQ8VRM"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"8kil1b9bk4yPWUT8g_atC"}
