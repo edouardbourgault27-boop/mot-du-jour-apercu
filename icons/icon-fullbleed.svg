@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#e2452a"/>
+  <g transform="translate(256 256) scale(0.92) translate(-256 -256)">
+    <text x="256" y="332" font-family="Georgia, 'Times New Roman', serif" font-size="336" text-anchor="middle" fill="#f7f1e3">M</text>
+    <rect x="141" y="376" width="230" height="26" rx="13" fill="#f7f1e3"/>
+  </g>
+</svg>
