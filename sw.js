@@ -1,4 +1,4 @@
-const CACHE_VERSION = "mot-du-jour-v6";
+const CACHE_VERSION = "mot-du-jour-v7";
 const PRECACHE = [
   "/",
   "/onboarding",
